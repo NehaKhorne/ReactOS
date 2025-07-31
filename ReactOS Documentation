@@ -1,4 +1,3 @@
-
 1. Introduction
 ReactOS is an open-source operating system that is designed to be compatible with Microsoft Windows at the binary level. This means it aims to run the same software and use the same drivers that Windows does. The system is built from scratch and is not based on Linux or Unix. Its architecture closely follows that of Windows NT, particularly Windows XP and Windows Server 2003.
 
